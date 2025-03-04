@@ -59,7 +59,7 @@ By building **Project SkyVault**, you'll gain experience in:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/ajwild320/Storage-Management-Platform
+   git clone https://github.com/ajwild320/Project-SkyVault
    ```
 
 2. Install dependencies:
